@@ -26,6 +26,7 @@ int main()
     Factorial(&a, &d);
     cout << "Result value of the void Factorial(int *a, int *result) is " << d << endl;
 
+    return 0;
 }
 
 //Add two numbers and return the sum
